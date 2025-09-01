@@ -11,4 +11,4 @@ A organização do GFD-USP no GitHub tem três objetivos principais:
 
 ⚠️ Se você chegou agora, por favor, leia nosso Código de Conduta.
 
-🟢 Você também pode achar úteis nossas diretrizes e receitas computacionais.
+🟢 Você também pode achar úteis nosso manual e receitas computacionais.
