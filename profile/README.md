@@ -1,14 +1,13 @@
 # GFD-USP
-O *Laboratório de Dinâmica de Fluidos Geofísicos & Aplicações* (GFD-USP) é um grupo de pesquisa na Universidade São Paulo. Coordenado pelo Prof. César Barbedo Rocha, o GFD-USP se dedica a estudar problemas fundamentais de dinâmica de fluidos geofísicos multiescala e do papel do oceano no clima global, utilizando uma combinação de teoria, observações e modelos computacionais de variada complexidade.
+O Laboratório de Dinâmica de Fluidos Geofísicos & Aplicações (GFD-USP) é um grupo de pesquisa da Universidade de São Paulo. Coordenado pelo Prof. César Barbedo Rocha, o GFD-USP se dedica ao estudo de problemas fundamentais da dinâmica de fluidos geofísicos em múltiplas escalas e do papel do oceano no clima global, combinando teoria, observações e modelos computacionais de diferentes níveis de complexidade.
 
-Esta organização do GFD-USP no GitHub tem três objetivos principais:
+A organização do GFD-USP no GitHub tem três objetivos principais:
 
-1. Facilitar a integração de novos membros do grupo. 
-2.  Aumentar a transparência de nossas pesquisas.
-3.  Promover nosso engajamento com a comunidade científica e a sociedade.
+Facilitar a integração de novos membros do grupo
 
+Aumentar a transparência de nossas pesquisas
 
-⚠️ Se você chegou agora, por favor, leia nosso Código de Conduta.
+Promover o engajamento com a comunidade científica e a sociedade
 
-🟢 Você também pode achar útil nossos guideliness e receitas computacionais.
+⚠️ Se você chegou agora, por favor, leia nosso Código de Conduta
 
