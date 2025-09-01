@@ -3,11 +3,12 @@ O Laboratório de Dinâmica de Fluidos Geofísicos & Aplicações (GFD-USP) é u
 
 A organização do GFD-USP no GitHub tem três objetivos principais:
 
-Facilitar a integração de novos membros do grupo
+- Facilitar a integração de novos membros do grupo
 
-Aumentar a transparência de nossas pesquisas
+- Aumentar a transparência de nossas pesquisas
 
-Promover o engajamento com a comunidade científica e a sociedade
+- Promover o engajamento do GFD-USP com a comunidade científica e a sociedade
 
-⚠️ Se você chegou agora, por favor, leia nosso Código de Conduta
+⚠️ Se você chegou agora, por favor, leia nosso Código de Conduta.
 
+🟢 Você também pode achar úteis nossas diretrizes e receitas computacionais.
